@@ -15,7 +15,7 @@ Atualmente, busco uma oportunidade de estágio em tecnologia onde eu possa apren
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ## Socials
 
-- LinkedIn: [https://www.linkedin.com/in/mateus-rodrigues-590a723b4/]
+- LinkedIn: [https://www.linkedin.com/in/mateus-rodriguesx/]
 - E-mail: [Workmateustavareszx007@gmail.com]
 
 Aberto a conexões, projetos e novas oportunidades.
