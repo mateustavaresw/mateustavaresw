@@ -1,7 +1,6 @@
 # Mateus Tavares
 
-Sou estudante de Engenharia de Software na FIAP, construindo minha trajetória na área de tecnologia com foco em desenvolvimento de software.
-
+Sou estudante de Engenharia de Software na FIAP.
 Tenho buscado transformar o que aprendo em prática, desenvolvendo minha lógica de programação, estudando JavaScript, HTML e CSS e criando projetos para consolidar meus conhecimentos.
 
 Gosto de entender como as coisas funcionam, resolver problemas e aprender novas tecnologias. Meu objetivo é evoluir constantemente e ganhar experiência trabalhando em projetos reais ao lado de profissionais da área.
