@@ -17,5 +17,5 @@ Atualmente, busco uma oportunidade de estágio em tecnologia onde eu possa apren
 - LinkedIn: [https://www.linkedin.com/in/mateus-rodriguesx/]
 - E-mail: [Workmateustavareszx007@gmail.com]
 
-Aberto a conexões, projetos e novas oportunidades.
+Aberto a conexões, projetos e novas oportunidades na área de TI.
 
